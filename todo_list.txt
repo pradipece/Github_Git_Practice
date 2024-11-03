@@ -1,0 +1,18 @@
+---Markdown---
+Markdown is most important for the "README.md" file for different kinds of alinement for the code and taxt style in Github README.md file.
+1. Why and what foor README.md file?
+2. How can I make commands in the file.
+3. Normal text and new line
+4. Horizontal rule
+5. Different kinds of Heading line
+6. Paragraph
+7. Italic
+8. Bold
+9. Strikethrough
+10. Inline code block
+11. Multiple line code block
+12. List
+13. Link
+14. Image
+15. Emoji
+16. Table

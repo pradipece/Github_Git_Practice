@@ -24,13 +24,13 @@ or
 
 ## Paragraph
 
-<p> For the use the Pragraph HTML tags. I am Pradip Nath, I just complited Masters from Sweden. </p>
+<p> For the use of the Paragraph HTML tags. I am Pradip Nath, I just completed my Master's from Sweden. </p>
 
 ## Italic
 
 <i> use for the italic </i>
 
-_use for the markdown text Use only undeline 1st and last._
+_use for the markdown text Use only underline 1st and last._
 
 ## Bold
 
@@ -44,7 +44,7 @@ __use for the markdown text Use -- only undeline 1st and last.__
 
 ## Inline code block
 
-`This is use for the inline`  
+`This is used for the inline`  
 
 `<h1> Inline we use back tag </h1>`
 
@@ -63,7 +63,7 @@ __use for the markdown text Use -- only undeline 1st and last.__
   <html>
    <head>use for the header</head>
     <body> 
-        Above we can use the the language name such as html, CSS,javascript, Linux, Matlab, Python 
+        Above we can use language name such as HTML, CSS, javascript, Linux, Matlab, Python 
 
    </body>
   </html>
@@ -86,10 +86,12 @@ __use for the markdown text Use -- only undeline 1st and last.__
     <li>This is item4 </li>
 </ol>
 
-1. use markdown item1
-2. use markdown item2
-3. Use markdown item3
-4. Use markdown item4
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
 
 ## Unordered list
 
@@ -107,7 +109,7 @@ __use for the markdown text Use -- only undeline 1st and last.__
 
 ##  Image
 
-For image tag we will use html syntex 
+For the image tag we will use HTML syntax 
 
 
 ## Emoji
@@ -115,7 +117,7 @@ For image tag we will use html syntex
 For the Emoji we will browse the online link : 
 https://emojipedia.org/
 
-only copy and paste in README file
+only copy and paste into the README file
 
 ✨ sparkle
 
@@ -126,7 +128,7 @@ only copy and paste in README file
 ⭐  Star
 
 ## Table 
-we can use the html syntax
+we can use the HTML syntax
 
 Markdown we use table format:
 

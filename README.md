@@ -1,11 +1,11 @@
 ## Comment
-<!-- Markdown use the HTML code for every thing-->
+<!-- Markdown uses the HTML code for everything -->
 ## Normal text and new line
-Normaly we can write in the README file
+Normally we can write in the README file
 ## New line
 <br>
 or 
-1st line the we use <br> 2nd line
+1st line <br> 2nd line
 
 ## Horizontal rule
 
@@ -18,7 +18,7 @@ or
 
 # Heading
 ## Heading
-### Headig
+### Heading
 #### Heading
 
 

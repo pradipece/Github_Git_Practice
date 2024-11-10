@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  /* This is
+a multi-line
+comment */
+
+p {
+    color: red;
+  }
+
+
+  /* Navigation bar  */
+
+  <ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+/*Thumbnail Image */
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  <img src="paris.jpg" alt="Paris">

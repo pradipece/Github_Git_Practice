@@ -1,4 +1,4 @@
-# Git and GitHub command: 
+# Git command: 
 
 ```sourceCode console
 Initial Git and GitHub Setup:
@@ -132,7 +132,7 @@ __use for the markdown text Use -- only undeline 1st and last.__
 
 ##  Image
 
-For the image tag we will use HTML syntax 
+For the image tag, we will use HTML syntax 
 
 
 ## Emoji

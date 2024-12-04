@@ -1,7 +1,7 @@
 # Git and GitHub command: 
 
 ```sourceCode console
-<b> Initial Git and GitHub Setup: </b>
+__Initial Git and GitHub Setup:__
 
   git init
   git add .
@@ -10,7 +10,7 @@
   git remote add origin [your origin]
   git push -u origin main
 
-<b> Then after setup in the GitHub repo: </b>
+__Then after setup in the GitHub repo:__
 
   git add .
   git commit -m "commit message for the files"

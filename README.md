@@ -1,3 +1,26 @@
+# Git and GitHub command: 
+
+```SorceCode console
+  Initial Git and GitHub Setup:
+
+  git init
+  git add .
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin [your origin]
+  git push -u origin main
+
+  Then after setup in the GitHub repo:
+
+  git add .
+  git commit -m "Your Message"
+  git push
+
+ ```
+
+
+
+
 ## Comment
 <!-- Markdown uses the HTML code for everything -->
 ## Normal text and new line
@@ -63,7 +86,7 @@ __use for the markdown text Use -- only undeline 1st and last.__
   <html>
    <head>use for the header</head>
     <body> 
-        Above we can use language name such as HTML, CSS, javascript, Linux, Matlab, Python 
+        Above we can use language names such as HTML, CSS, javascript, Linux, Matlab, Python 
 
    </body>
   </html>

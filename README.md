@@ -11,7 +11,7 @@ Initial Git and GitHub Setup:
   git branch -M main
   git remote add origin [your origin]
   git push -u origin main
-
+---
 Then after setup in the GitHub repo:
 
   git add .

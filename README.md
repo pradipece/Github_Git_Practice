@@ -1,24 +1,22 @@
 # Git and GitHub command: 
 
-```SorceCode console
-  Initial Git and GitHub Setup:
+```sourceCode console
+<b> Initial Git and GitHub Setup: </b>
 
   git init
   git add .
-  git commit -m "first commit"
+  git commit -m "commit message for the files"
   git branch -M main
   git remote add origin [your origin]
   git push -u origin main
 
-  Then after setup in the GitHub repo:
+<b> Then after setup in the GitHub repo: </b>
 
   git add .
-  git commit -m "Your Message"
+  git commit -m "commit message for the files"
   git push
 
  ```
-
-
 
 
 ## Comment

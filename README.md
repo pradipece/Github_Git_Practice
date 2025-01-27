@@ -94,7 +94,9 @@ __use for the markdown text Use -- only undeline 1st and last.__
 
 
 ```javascript
-    console.log('Hello World')
+    document.write('Hello World, it will show the font in browser')
+
+    console.log('Hello World , This output show the console')
 ```
 
 ```python

@@ -18,8 +18,16 @@ Then after setup in the GitHub repo:
   git commit -m "commit message for the files"
   git push -u origin main
 
- ```
+  __Connect with the GitHub repo from the local computer__
 
+  cd [folder]
+  git init
+  git remote add origin [repo URL]
+  git add .
+  git commit -m "commit message for the files"
+  git push -u origin main
+
+```
 
 ## Comment
 <!-- Markdown uses the HTML code for everything -->
